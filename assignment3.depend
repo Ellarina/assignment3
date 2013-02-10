@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1360327737 source:c:\documents and settings\jowel\desktop\assignment3\main.cpp
+	"psst.h"
+	<iostream>
+
+1360314895 source:c:\documents and settings\jowel\desktop\assignment3\psst.cpp
+	"psst.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<cstring>
+
+1360327884 c:\documents and settings\jowel\desktop\assignment3\psst.h
+
